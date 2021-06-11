@@ -1,5 +1,8 @@
 _repo: Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1882_65515
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65515-h/images/cover.png
 creator:
   authors:
   - agent_name: Brown, John A. Harvie
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '53366'
     url: http://www.gutenberg.org/2009/agents/53366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65515#Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1882
 gutenberg_issued: '2021-06-05'
 gutenberg_type: Text
 identifiers:
